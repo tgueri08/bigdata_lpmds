@@ -1,6 +1,6 @@
 CREATE external TABLE Object (
   objectId bigint ,
-  iauId sting ,
+  iauId string ,
   ra_PS double ,
   ra_PS_Sigma float ,
   decl_PS double ,
